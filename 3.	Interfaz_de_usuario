@@ -1,0 +1,26 @@
+3.	Interfaz de usuario
+
+•	¿Qué es? Es la parte del sistema experto que permite al usuario interactuar con el sistema.
+•	¿Para qué sirve? La interfaz de usuario permite al usuario proporcionar los datos necesarios al sistema experto y recibir 
+las respuestas y explicaciones del sistema. Sirve para facilitar la comunicación entre el usuario y el sistema experto.
+•	¿Cómo funciona? La interfaz de usuario puede ser gráfica o de línea de comandos, y permite al usuario ingresar información 
+y recibir resultados y explicaciones. La interfaz de usuario también puede proporcionar retroalimentación al usuario sobre la 
+calidad de la información proporcionada y la confianza del sistema en la respuesta o conclusión proporcionada.
+
+Ejemplos:
+•	Una interfaz de usuario basada en texto:
+El usuario proporciona información al sistema experto escribiendo preguntas o respuestas en un terminal de computadora. 
+El sistema experto proporciona resultados en forma de texto.
+
+•	Una interfaz de usuario gráfica:
+El usuario interactúa con el sistema experto haciendo clic en botones y seleccionando opciones de menú en una interfaz 
+gráfica de usuario. El sistema experto presenta información y resultados de manera visual, como gráficos, tablas y diagramas.
+
+•	Una interfaz de usuario de lenguaje natural:
+El usuario interactúa con el sistema experto en lenguaje natural, como inglés o español, utilizando un sistema de procesamiento 
+de lenguaje natural. El sistema experto proporciona respuestas en lenguaje natural, lo que permite una interacción más natural y humana.
+
+•	Una interfaz de usuario móvil:
+El usuario interactúa con el sistema experto en un dispositivo móvil, como un teléfono inteligente o una tableta. 
+La interfaz de usuario se adapta al tamaño de la pantalla y utiliza elementos de interfaz de usuario táctil, como botones y deslizadores, 
+para interactuar con el sistema experto.
