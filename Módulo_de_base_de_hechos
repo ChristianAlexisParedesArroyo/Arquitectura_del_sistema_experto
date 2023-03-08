@@ -1,0 +1,19 @@
+Módulo de base de hechos
+
+•	¿Qué es? Es el módulo que almacena y organiza los hechos relevantes del dominio que el sistema experto 
+necesita para realizar su tarea.
+•	¿Para qué sirve? El módulo de base de hechos sirve para almacenar y organizar los hechos relevantes del 
+dominio, lo que permite al sistema experto acceder rápidamente a la información necesaria para realizar su tarea. 
+Esto también ayuda a mejorar la eficiencia y precisión del sistema experto al reducir el tiempo necesario para 
+buscar y procesar los datos relevantes.
+•	¿Cómo funciona? El módulo de base de hechos utiliza una estructura de datos para almacenar los hechos relevantes 
+del dominio, que pueden incluir información como valores de atributos, relaciones entre objetos y resultados de pruebas
+o mediciones. Los hechos se organizan en forma de base de datos para que puedan ser fácilmente accedidos y utilizados
+por el sistema experto. Además, el módulo de base de hechos puede incluir técnicas de indexación para acelerar
+la búsqueda y recuperación de información relevante. El módulo de base de hechos también puede incluir técnicas
+de inferencia para derivar nuevos hechos a partir de los hechos existentes en la base de conocimientos.
+
+Ejemplos:
+•	Datos médicos como resultados de pruebas de laboratorio y signos vitales del paciente
+•	Especificaciones técnicas de componentes y materiales en ingeniería mecánica
+•	Información de ventas y finanzas en un sistema de gestión empresarial
