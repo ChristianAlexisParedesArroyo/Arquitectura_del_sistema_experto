@@ -1,0 +1,15 @@
+Módulo de adquisición de conocimiento
+
+•	¿Qué es? Es el módulo que permite a los expertos en el dominio agregar nuevos conocimientos al sistema experto.
+•	¿Para qué sirve? El módulo de adquisición de conocimiento sirve para mantener actualizado el conocimiento 
+del sistema experto y mejorar su rendimiento. Permite a los expertos en el dominio agregar nuevos conocimientos
+o actualizar los existentes en la base de conocimientos.
+•	¿Cómo funciona? El módulo de adquisición de conocimiento puede incluir herramientas para la extracción de 
+conocimiento de expertos en el dominio, así como la validación y agregación de este conocimiento a la base de conocimientos. 
+Puede utilizar diferentes técnicas, como entrevistas con expertos, encuestas y análisis de documentos.
+
+Ejemplos:
+•	Entrevistas con expertos en el dominio para recopilar conocimiento
+•	Lectura de libros, artículos y publicaciones relacionados con el dominio
+•	Observación de expertos realizando la tarea o diagnóstico en cuestión
+•	Análisis de datos y registros relevantes del dominio
