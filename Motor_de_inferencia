@@ -1,0 +1,15 @@
+Motor de inferencia
+
+•	¿Qué es? Es el componente del sistema experto que aplica el conocimiento almacenado en la base de conocimientos 
+a los datos proporcionados por el usuario para llegar a una conclusión o respuesta.
+•	¿Para qué sirve? El motor de inferencia es la parte del sistema experto que realiza la tarea principal del sistema, 
+que es la toma de decisiones basada en el conocimiento y la experiencia almacenados en la base de conocimientos.
+•	¿Cómo funciona? El motor de inferencia utiliza diferentes técnicas de inferencia, como la lógica deductiva, la lógica 
+difusa o el razonamiento basado en casos, para aplicar el conocimiento de la base de conocimientos a los datos proporcionados 
+por el usuario. El motor de inferencia puede utilizar diferentes algoritmos para determinar la conclusión o respuesta final.
+
+Ejemplos:
+•	Si el paciente tiene fiebre y dolor de cabeza, entonces es probable que tenga una infección
+•	Si el nivel de glucemia es alto, entonces el paciente tiene diabetes tipo 2
+•	Si el tamaño del tumor es mayor de 5 cm y se ha diseminado a los ganglios linfáticos cercanos, entonces es probable que 
+el paciente tenga un cáncer avanzado
