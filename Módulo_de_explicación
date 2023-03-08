@@ -1,0 +1,21 @@
+Módulo de explicación (también llamado módulo de justificación)
+
+•	¿Qué es? Es el módulo que proporciona explicaciones al usuario sobre cómo se llegó a la conclusión o respuesta 
+del sistema experto.
+•	¿Para qué sirve? El módulo de explicación sirve para aumentar la transparencia del sistema experto y mejorar su 
+aceptación por parte de los usuarios. Permite al usuario comprender cómo se llegó a la respuesta o conclusión del 
+sistema experto y puede ayudar a mejorar la confianza en el sistema.
+•	¿Cómo funciona? El módulo de explicación utiliza diferentes técnicas para explicar el razonamiento del sistema 
+experto al usuario. Puede proporcionar una lista de reglas o casos utilizados, mostrar la evidencia que respalda 
+la respuesta o proporcionar una explicación más detallada de cómo se llegó a la conclusión. El módulo de explicación 
+también puede adaptar su explicación a las necesidades del usuario, por ejemplo, proporcionando una explicación más simple
+o detallada según la experiencia del usuario en el dominio.
+
+Ejemplo:
+•	El sistema experto determinó que el paciente tenía una infección debido a la presencia de fiebre y dolor de cabeza,
+que son síntomas comunes de infecciones
+•	El sistema experto concluyó que el paciente tiene diabetes tipo 2 debido al alto nivel de glucemia, que es una
+indicación de resistencia a la insulina
+•	El sistema experto diagnosticó al paciente con un cáncer avanzado en función del tamaño del tumor y la presencia
+de metástasis en los ganglios linfáticos cercanos.
+
