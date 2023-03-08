@@ -1,0 +1,17 @@
+• ¿Qué es? Es una base de datos que contiene el conocimiento y la experiencia del experto en un dominio específico. 
+La base de conocimientos puede contener reglas, hechos, casos, modelos y otros tipos de información que son relevantes 
+para la tarea del sistema experto.
+
+• ¿Para qué sirve? La base de conocimientos es la fuente principal de conocimiento para el sistema experto. Sirve para 
+almacenar el conocimiento y la experiencia de los expertos en un dominio específico para que el sistema experto pueda 
+utilizarlo para realizar tareas similares.
+
+• ¿Cómo funciona? El motor de inferencia utiliza la base de conocimientos para aplicar el conocimiento almacenado a los 
+datos proporcionados por el usuario. El sistema experto puede utilizar diferentes técnicas de razonamiento, como la lógica 
+difusa o el razonamiento basado en casos, para aplicar el conocimiento de la base de conocimientos.
+
+
+Ejemplos:
+•	Reglas de diagnóstico para enfermedades específicas
+•	Principios de diseño y construcción de estructuras en ingeniería civil
+•	Procedimientos de fabricación de componentes electrónicos
